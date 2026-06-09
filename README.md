@@ -80,6 +80,10 @@ Paper figures are generated separately using the final figure package.
 
 Citation
 
+The code developed for this study is publicly available at https://github.
+com/farzadhoseini/Cluster-Wise-HPO-CAMELS-US. The benchmark results generated during the current work are publicly available at https:
+//doi.org/10.5281/zenodo.20421012.
+
 If you use this repository, please cite the associated paper:
 
 Cluster-Wise Hyperparameter Optimization Enhances Regional Rainfall–Runoff Modeling with Deep Learning: A Robust CAMELS-US Benchmark
