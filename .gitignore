@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+conda_env/
+*.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large model/output files
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+
+# Large generated results
+outputs/
+results/
+runs/
+wandb/
+mlruns/
+checkpoints/
+models/
+trained_models/
+
+# Optional local data folders
+data_raw/
+raw_data/
+CAMELS_US/
